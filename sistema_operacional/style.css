@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(75, 75, 75);
+    color: rgb(0, 0, 0);
+
+}
+
+nav a{
+    text-decoration: none;
+}
+a{
+    color: black;
+    font-size: medium;
+
+}
+a:hover{
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+
+}
+a:visited {
+    color: rgb(255, 255, 255);
+}
